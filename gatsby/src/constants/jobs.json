@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "company": "Credit Card Chris LLC",
+        "position": "Web Developer",
+        "date": "June 2021 - Present",
+        "createdAt": "2021-12-15T20:48:39.927Z",
+        "updatedAt": "2021-12-15T21:31:58.595Z",
+        "publishedAt": "2021-12-15T20:48:40.840Z",
+        "content": {
+          "descriptions": [
+            "I design and build websites for small to medium-sized businesses.",
+            "I’m experienced in JavaScript, ReactJS, NextJS, GatsbyJS, HTML and CSS3, WordPress and SEO.",
+            "I fully project manage the project from start to finish.",
+            "Regular communication with the client is one of my top priorities."
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "company": "Retriever Merchant Solutions",
+        "position": "Independent Sales Representative",
+        "date": "August 2020 - Present",
+        "createdAt": "2021-12-15T21:25:42.451Z",
+        "updatedAt": "2021-12-15T21:33:21.550Z",
+        "publishedAt": "2021-12-15T21:25:44.651Z",
+        "content": {
+          "descriptions": [
+            "As an independent sales representative, I started and ran my own LLC selling products for Retriever to merchants.",
+            "Developed and presented point-of-sale and processing packages to small and medium businesses.",
+            "Installed technology leased by merchant and trained employees on how to use these products.",
+            "Planned, organized, and executed routing plan to improve sales efficiency and hit quarterly goals."
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "company": "Milwaukee Tool",
+        "position": "Territory Manager",
+        "date": "September 2018 - August 2020",
+        "createdAt": "2021-12-15T21:27:07.033Z",
+        "updatedAt": "2021-12-15T21:34:09.926Z",
+        "publishedAt": "2021-12-15T21:27:13.403Z",
+        "content": {
+          "descriptions": [
+            "Learned, presented, and created sales programs for new technologies launched by the Milwaukee Tool.",
+            "Held multiple board positions with trade organizations for Electrical and Utility trades.",
+            "Led an internal committees to improve the Customer Relationship Management (CRM) software for sales team."
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "company": "Milwaukee Tool",
+        "position": "Assistant Channel Manager",
+        "date": "July 2017 - September 2018",
+        "createdAt": "2021-12-15T21:35:04.624Z",
+        "updatedAt": "2021-12-15T21:50:00.966Z",
+        "publishedAt": "2021-12-15T21:50:00.964Z",
+        "content": {
+          "descriptions": [
+            "Focused on the development and implementation of Milwaukee Tool's e-Rebate website/program including:",
+            "Identifying and reducing fraud, gaining feedback on UX, and presenting changes to web developers.",
+            "Collaborating with web designers and back-end developers to improve the UX of the site.",
+            "Designing quarterly assets for the site’s promotions including styling and color design."
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}

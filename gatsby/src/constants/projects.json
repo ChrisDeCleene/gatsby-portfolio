@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Simply Recipes",
+        "slug": "simply-recipes",
+        "description": "Simply Recipes is a fake recipe website developed using GatsbyJS and Contentful. I created this website to demonstrate what I can do with GatsbyJS plug-ins, specifically the use of Gatsby Image components and rendering data from a headless CMS.",
+        "github": "https://github.com/ChrisDeCleene/gatsbySimplyRecipes",
+        "url": "https://gatsby-simply-recipes.netlify.app/",
+        "featured": true,
+        "createdAt": "2021-12-15T22:43:34.091Z",
+        "updatedAt": "2021-12-15T22:43:36.709Z",
+        "publishedAt": "2021-12-15T22:43:36.701Z",
+        "content": {
+          "stack": ["Gatsby", "React", "Contentful", "Styled-Components"]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Critix Movie App",
+        "slug": "critix-movie-app",
+        "description": "Critix Movie App is a SPA built using ReactJS with Redux toolkit for state management. I built this application as a project for my Full-Stack Engineering Career Path with Codecademy. I chose this specific project because I am a huge movie nerd and wanted a way to easily search movie information and find new movies to watch. Given how overwhelming other movie tools such as IMDB can be, I focus on simplicity in my design and rendering of data from TMDB API.",
+        "github": "https://github.com/ChrisDeCleene/movie-app",
+        "url": "https://critix.surge.sh/",
+        "featured": true,
+        "createdAt": "2021-12-15T22:49:33.664Z",
+        "updatedAt": "2021-12-15T23:05:57.356Z",
+        "publishedAt": "2021-12-15T22:49:36.725Z",
+        "content": {
+          "stack": ["ReactJS", "Redux", "JavaScript", "CSS Modules", "TMDB API"]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Music Muse",
+        "slug": "music-muse",
+        "description": "Music Muse is a playlist-building SPA that uses Spotify API. This was the first project where I ever worked with API documentation and authorization on my own. Since the creation of this app, I have added additional features such as a media player for samples and rendering the users 'Recently Played' songs from Spotify.",
+        "github": "https://github.com/ChrisDeCleene/musicMuse",
+        "url": "https://music-muse.netlify.app/",
+        "featured": true,
+        "createdAt": "2021-12-15T22:49:50.032Z",
+        "updatedAt": "2021-12-15T22:53:30.926Z",
+        "publishedAt": "2021-12-15T22:53:30.923Z",
+        "content": {
+          "stack": ["ReactJS", "JavaScript", "CSS", "Netlify", "Spotify API"]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "Sushi2U",
+        "slug": "sushi2-u",
+        "description": "Sushi2U is a ReactJS SPA that uses React Context API to allow users to add/remove items to a shopping cart, as well as, send a fake order to Firebase.",
+        "github": "https://github.com/ChrisDeCleene/food-app",
+        "url": "https://sushi2u.netlify.app/",
+        "featured": false,
+        "createdAt": "2021-12-15T22:56:59.230Z",
+        "updatedAt": "2021-12-15T22:57:00.161Z",
+        "publishedAt": "2021-12-15T22:57:00.157Z",
+        "content": {
+          "stack": ["ReactJS", "JavaScript", "Firebase"]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}
